@@ -1,0 +1,177 @@
+#s-abbf570d-8795-46c6-ac05-58f32e93e24e > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-abbf570d-8795-46c6-ac05-58f32e93e24e > #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#s-abbf570d-8795-46c6-ac05-58f32e93e24e #s-Rectangle_1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 371px;
+  height: 663px;
+  background-color: #FFFFFF;
+  background-image: none;
+  border-top-width: 2px;
+  border-top-style: solid;
+  border-top-color: #A9A9A9;
+  border-right-width: 2px;
+  border-right-style: solid;
+  border-right-color: #A9A9A9;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #A9A9A9;
+  border-left-width: 2px;
+  border-left-style: solid;
+  border-left-color: #A9A9A9;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  z-index: 100;
+  font-size: 12.0pt;
+  font-family: Roboto-Bold,Arial;
+}
+#s-abbf570d-8795-46c6-ac05-58f32e93e24e #s-Rectangle_1 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-abbf570d-8795-46c6-ac05-58f32e93e24e #s-Rectangle_1 span {
+  color: #1174C1;
+  text-align: center;
+  text-decoration: none;
+  font-family: Roboto-Bold,Arial;
+  font-size: 12.0pt;
+}
+#s-abbf570d-8795-46c6-ac05-58f32e93e24e #s-Rectangle_1 span#rtr-s-Rectangle_1_0 {
+  color: #1174C1;
+  text-align: center;
+  text-decoration: none;
+  font-family: Roboto-Bold,Arial;
+  font-size: 12.0pt;
+  line-height: 0px;
+}
+#s-abbf570d-8795-46c6-ac05-58f32e93e24e #s-Act_indicator {
+  position: absolute;
+  top: 437px;
+  left: 177px;
+  width: 21px;
+  height: 20px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  z-index: 100;
+}
+#s-abbf570d-8795-46c6-ac05-58f32e93e24e #s-Group_1 {
+  position: absolute;
+  top: 109px;
+  left: 117px;
+  width: 137px;
+  height: 143px;
+  z-index: 100;
+}
+#s-abbf570d-8795-46c6-ac05-58f32e93e24e #s-Ellipse_1 .shapert-clipping {
+  left: 0px;
+  top: 0px;
+  width: 137px;
+  height: 143px;
+  position: absolute;
+  overflow: hidden;
+}
+#s-abbf570d-8795-46c6-ac05-58f32e93e24e #s-Ellipse_1 .content {
+  width: 137px;
+  height: 143px;
+}
+#s-abbf570d-8795-46c6-ac05-58f32e93e24e #s-Ellipse_1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 137px;
+  height: 143px;
+  background-color: #FC663D;
+  background-image: none;
+  border-top-width: 0px;
+  border-top-style: solid;
+  border-top-color: #FFFFFF;
+  border-right-width: 0px;
+  border-right-style: solid;
+  border-right-color: #FFFFFF;
+  border-bottom-width: 0px;
+  border-bottom-style: solid;
+  border-bottom-color: #FFFFFF;
+  border-left-width: 0px;
+  border-left-style: solid;
+  border-left-color: #FFFFFF;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  font-size: 12.0pt;
+  font-family: Roboto-Bold,Arial;
+}
+#s-abbf570d-8795-46c6-ac05-58f32e93e24e #shapewrapper-s-Ellipse_1 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-abbf570d-8795-46c6-ac05-58f32e93e24e #shapewrapper-s-Ellipse_1 span {
+  color: #6ACA6B;
+  text-align: center;
+  text-decoration: none;
+  font-family: Roboto-Bold,Arial;
+  font-size: 12.0pt;
+}
+#s-abbf570d-8795-46c6-ac05-58f32e93e24e #shapewrapper-s-Ellipse_1 span#rtr-s-Ellipse_1_0 {
+  color: #6ACA6B;
+  text-align: center;
+  text-decoration: none;
+  font-family: Roboto-Bold,Arial;
+  font-size: 12.0pt;
+  line-height: 0px;
+}
+#s-abbf570d-8795-46c6-ac05-58f32e93e24e #s-Label_128 {
+  position: absolute;
+  top: 21px;
+  left: 21px;
+  width: auto;
+  height: auto;
+  background-color: transparent;
+  background-image: none;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  font-size: 72.0pt;
+  font-family: IOS8-Icons-Regular,Arial;
+}
+#s-abbf570d-8795-46c6-ac05-58f32e93e24e #s-Label_128 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-abbf570d-8795-46c6-ac05-58f32e93e24e #s-Label_128 span {
+  color: #FFFFFF;
+  text-align: left;
+  text-decoration: none;
+  font-family: IOS8-Icons-Regular,Arial;
+  font-size: 72.0pt;
+}
+#s-abbf570d-8795-46c6-ac05-58f32e93e24e #s-Label_128 span#rtr-s-Label_128_0 {
+  color: #FFFFFF;
+  text-align: left;
+  text-decoration: none;
+  font-family: IOS8-Icons-Regular,Arial;
+  font-size: 72.0pt;
+  line-height: 0px;
+}
+#s-abbf570d-8795-46c6-ac05-58f32e93e24e > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
